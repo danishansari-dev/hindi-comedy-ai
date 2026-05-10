@@ -1,5 +1,5 @@
 # ── Phase 0: Data Collection ──
-praw>=7.7.1              # Reddit API wrapper
+google-api-python-client>=2.0.0  # YouTube Data API (v3)
 youtube-transcript-api>=0.6.1  # YouTube transcript downloader
 yt-dlp>=2024.1.0         # YouTube metadata fallback
 
