@@ -39,40 +39,40 @@ YOUTUBE_MAX_COMMENTS_PER_VIDEO = 100
 # Zakir Khan, Anubhav Singh Bassi, Abhishek Upmanyu
 YOUTUBE_VIDEO_IDS = [
     # ── Zakir Khan ──
-    "GXfnIJcp8lQ",  # Haq Se Single
-    "PoEq3m7YXCQ",  # Sakht Launda
-    "4zL5JBF-aV8",  # Tathastu
-    "9VvnxPgFfxQ",  # Kaksha Gyarvi
-    "bwqJFjGJ8KE",  # Mann Pasand
-    "BEhg7MZ3YIg",  # Koi Baat Nahi
-    "W_v24FrKWZg",  # Bachpan
-    "d4dVl8i52cM",  # Naqaab
-    "Vxn7tz9t7qU",  # Chai
-    "hVH5G9_OkUo",  # Voh Wali Feeling
+    "vflWLItnwfA",
+    "sIl8vsWrD8o",
+    "kWj8DQ5GTxM",
+    "rBCHIdqso3c",
+    "5LOR8_H1I2I",
+    "wy9IYJxne0E",
+    "NVg3bRE8q8U",
+    "--YMwaJy5ec",
+    "GO1XngB-LS8",
+    "XV8eCftsnn0",
 
     # ── Anubhav Singh Bassi ──
-    "dh-3pSi7RNM",  # Hostel
-    "UrZeH_CpsJ4",  # Cheating
-    "c5vRTwjCSYI",  # UPSC
-    "wdGZBRRWPGo",  # Ghar Waapsi
-    "S71GZX4TMLY",  # Woh Din
-    "lZhKEQxd7jY",  # Engineering
-    "1oC_3FRNJ2E",  # Interview
-    "_2LQnwEcvIQ",  # Airport
-    "3L7bexaRmVA",  # Breakup
-    "YVnBV3TNWCA",  # CLAT
+    "IEfBBYmxtIo",
+    "ynS6X7kno3E",
+    "qkxuFKqJXWY",
+    "mbOO0Z6ryO0",
+    "Tqsz6fjvhZM",
+    "XbiObxjyAkE",
+    "wQA68Oqr1qE",
+    "0guSWBSO8lo",
+    "z12bz7adLKI",
+    "tSrjpbFF9Yc",
 
     # ── Abhishek Upmanyu ──
-    "RLSL22gSwVM",  # Family Functions
-    "z18Y9VxSbPc",  # Rich People - Poor People
-    "59k6DMJMzVU",  # Relatives
-    "dEsw6Wm8IcE",  # Friends, Crime, & The Cosmos
-    "T9wh6GrO2sI",  # Shaadi, Breakup
-    "gZBCBqJRVTw",  # Grocery Store Billing
-    "mSd95CSZP-w",  # Gym and Breakup
-    "-u3Jvqb32Jk",  # Neighbourhood Aunties
-    "oGRR0rFQJOs",  # Summer Vacation
-    "AJsPSzMjbIY",  # Gussa aur Sabzi
+    "t8HrZTLRCeU",
+    "IcAV5qiko8M",
+    "c7QYEedjb_o",
+    "dtaJzUbQS7E",
+    "_fWyWcZB7VA",
+    "AyafgNZZees",
+    "mPCDQ34S8Rs",
+    "Slqo8SHnFaU",
+    "E16WhXcIghM",
+    "uvqD_VUZI24",
 ]
 
 # Preferred transcript languages — try Hindi first, fall back to English
